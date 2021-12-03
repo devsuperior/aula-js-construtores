@@ -15,7 +15,7 @@ Funções construtoras instanciam objetos com uma estrutura pré-definida.
 
 Todos objetos herdam o prototype de Object.
 
-Depois do ES6 (2015), a estrutura dos objetos podem ser definidos por classes.
+Depois do ES6 (2015), a estrutura dos objetos podem ser definida por classes.
 
 Boa prática: defina propriedades dentro do construtor, e métodos no prototype.
 
